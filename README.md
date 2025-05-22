@@ -2,7 +2,7 @@ Hi there 👋
 
 
 # 💫 About Me:
-Back End Developer in progress.
+Junior Front End Developer.
 
 
 ## 🌐 Socials:
